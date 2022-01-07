@@ -33,6 +33,6 @@ int main() {
     char mdp[N];
     printf("Entrer le mot de passe : ");
     scanf("%s",mdp);
-    verificateur_force_mdp(mdp);¨//appel de la fonction
+    verificateur_force_mdp(mdp);//appel de la fonction
     return 0;
  }
